@@ -13,4 +13,22 @@ To assist in performing an in-depth analysis. The following tasks are specified:
 
     Use the dataset sessions.csv and booking.csv 
 
-   
+
+    Finding Distinct Counts in Datasets using Python and NumPy
+
+To determine the number of distinct bookings, sessions, and searches from given datasets using Python and NumPy, we'll start by assuming a structure for these datasets. Since specific datasets weren't provided, we will create sample datasets for demonstration purposes and show you how to find distinct counts using NumPy.
+Sample Dataset Structure
+
+We'll assume the datasets are structured as follows:
+
+    Bookings: An array of booking IDs.
+
+    Sessions: An array of session IDs.
+
+    Searches: An array of search IDs.
+
+Creating Example Datasets
+
+Here's how we can create example datasets for bookings, sessions, and searches:
+
+1. Find the number of distinct bookings, sessions, and searches from the given datasets: used NumPy using datasets bookings.csv and sessions.csv 
