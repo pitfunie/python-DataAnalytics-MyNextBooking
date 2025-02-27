@@ -16,6 +16,9 @@ To assist in performing an in-depth analysis. The following tasks are specified:
 
     Finding Distinct Counts in Datasets using Python and NumPy
 
+![image](https://github.com/user-attachments/assets/c5dee132-5cfa-41d2-9200-b70cf1e524d6)
+    
+
 To determine the number of distinct bookings, sessions, and searches from given datasets using Python and NumPy, we'll start by assuming a structure for these datasets. Since specific datasets weren't provided, we will create sample datasets for demonstration purposes and show you how to find distinct counts using NumPy.
 Sample Dataset Structure
 
