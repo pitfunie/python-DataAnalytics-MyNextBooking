@@ -32,3 +32,6 @@ Creating Example Datasets
 Here's how we can create example datasets for bookings, sessions, and searches:
 
 1. Find the number of distinct bookings, sessions, and searches from the given datasets: used NumPy using datasets bookings.csv and sessions.csv 
+
+
+![image](https://github.com/user-attachments/assets/5f2f14d1-1aa5-460c-b57b-ab9f8b18929e)
